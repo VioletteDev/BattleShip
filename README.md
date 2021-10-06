@@ -30,7 +30,7 @@ La liste de fonctionnalités de BattleShip est la suivante :
 
 
 ## Captures
-![Example screenshot](./images/window.png)
+![Example screenshot](./BattleShip/images/window.png)
 <!-- If you have screenshots you'd like to share, include them here. -->
 
 
